@@ -1,0 +1,51 @@
+{
+  // Version of the setting file. Always 0.2
+  "version": "0.2",
+  // language - current active spelling language
+  "language": "en",
+  // words - list of words to be always considered correct
+  "words": [
+    "mkdirp",
+    "tsmerge",
+    "githubusercontent",
+    "streetsidesoftware",
+    "vsmarketplacebadge",
+    "visualstudio",
+    "behance",
+    "pinterest",
+    "dribble",
+    "tumblr",
+    "twitter",
+
+    // For React projects
+    "nextjs",
+    "tailwindcss",
+    "hookform",
+    "arrowParens",
+    "datetimepicker",
+    "datetime",
+    "persistor",
+    "jitsi",
+    "spacebar",
+    "stackoverflow",
+    "clsx",
+    "shadcnui",
+    "shadcn",
+    "cmdk",
+    "zustand",
+    "lucide",
+    "sonner",
+    "liveblocks",
+    "usehooks",
+    "supabase",
+    "tanstack",
+
+    // For media files
+    "webp",
+    "msvideo"
+  ],
+  // flagWords - list of words to be always considered incorrect
+  // This is useful for offensive words and common spelling errors.
+  // For example "hte" should be "the"
+  "flagWords": ["hte"]
+}
